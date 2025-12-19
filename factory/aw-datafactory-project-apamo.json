@@ -1,0 +1,9 @@
+{
+	"name": "aw-datafactory-project-apamo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "141b2845-e7ef-4348-a77d-8fc25cfab774",
+		"tenantId": "9aad65f5-ad81-4579-bcda-724a67caee40"
+	}
+}
