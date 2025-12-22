@@ -16,14 +16,23 @@ Dataset Source: Data is fetched from a GitHub repository via HTTP (similar to pu
 ## Table of Contents
 
 Data Understanding and Source
+
 Creating Azure Resources
+
 Azure Data Lake Storage Gen2
+
 Data Ingestion - Bronze Layer
+
 Azure Data Factory and ETL Pipelines
+
 Data Transformation - Silver Layer
+
 Data Warehousing - Gold Layer
+
 Visualization and Consumption
+
 Authentication and Security
+
 Key Concepts and Why We Do This
 Resources
 
